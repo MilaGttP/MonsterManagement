@@ -57,4 +57,5 @@ int main() {
 
     delete[] monsters;
 
+    // just for test (to commit)
 }
